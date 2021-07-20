@@ -17,6 +17,6 @@ Intro to Data Journalism Markdown practice resume
 
 | **Employer** | **Job Desription** |
 |--------|-----|
-|Fuki Sushi| <ul><li>Welcoming guests and seating them at the appropriate tables</li><li>Taking reservations and creating daily floor plans</li><li>Following checklist for shift start and end
-|Cetrella| <ul><li>Managing reservations as well as large catering events</li><li>Addressing guest concernts and complaints</li><li>Supervised and trained newly hired hosts and hostesses
 |Treasure Island Museum| <ul><li>Taking initiative in handling public outreach projects</li><li>Answering emails and phone calls</li><li>Managing mailing lists for monthly news letters
+|Cetrella| <ul><li>Managing reservations as well as large catering events</li><li>Addressing guest concernts and complaints</li><li>Supervised and trained newly hired hosts and hostesses
+|Fuki Sushi| <ul><li>Welcoming guests and seating them at the appropriate tables</li><li>Taking reservations and creating daily floor plans</li><li>Following checklist for shift start and end
